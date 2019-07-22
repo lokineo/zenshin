@@ -1,0 +1,26 @@
+- order: 001
+  name: "Round Icons"
+  category: "Graphic Design"
+  date: "Jan 2019"
+  photo: "roundicons.png"
+  img-alt: "Design"
+  id: "portfolioModal01"
+  description: "We design icon for other marketer to use based on their need and requirement"
+
+- order: 002
+  name: "Startup Framework"
+  category: "Branding"
+  date: "May 2019"
+  photo: "startup-framework.png"
+  img-alt: "Synchronize branding"
+  id: "portfolioModal02"
+  description: "Providing synchornize branding from name card to website"
+
+- order: 003
+  name: "Digital Forge"
+  category: "Website Design"
+  date: "July 2019"
+  photo: "treehouse.png"
+  img-alt: "Digital Forge"
+  id: "portfolioModal03"
+  description: "Create a stunning and modern website based on customer requirement"

@@ -1,0 +1,11 @@
+- name: "Consultation"
+  icon: "wechat"
+  description: "We help you identify and remove the major online business challenges. Talk to us "
+
+- name: "Responsive Design"
+  icon: "laptop"
+  description: "We don't just design a beautiful website but most importantly, we design a website that helps you generate sales in your sleep"
+
+- name: "Online Advertisement"
+  icon: "facebook-square"
+  description: "We help you to choose the best online advertisement platforms from Big guys like Google Ads to local influencer ensure you get the right customers."
