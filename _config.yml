@@ -17,14 +17,14 @@ title: ZenShin|Grow Online Presence
 email: kondifym@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Digital Marketing Agency help your business to stand out from your competitors through data drive and dynamic strategies.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "zenshin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
 # Build settings
 markdown: kramdown
-theme: 
+theme:
 plugins:
   - jekyll-feed
 
